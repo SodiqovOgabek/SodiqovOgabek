@@ -1,4 +1,4 @@
-<img height="350pm" width="10000pm" src="https://www.wallpapertip.com/wmimgs/160-1606471_logo-java.png">
+
 <h1 align="center">Hi 👋, I'm Sodiqov Og'abek</h1>
 <h3 align="center">A Java backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/JWR01H/programmer-workspace-programming-development-person-working-on-computer-JWR01H.jpg">
