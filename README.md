@@ -12,7 +12,7 @@
 
 <pre>
 💻 I am Java backend developer.
-📚 I have a Bachelors in BA Business Management from Westminster University in Tashkent.
+📚 I study at PDP academy in Tashkent.
 📝 I have a strong interest in web development.
 🌱 Learning about Java backend development
 🌟 Main languages: Java
