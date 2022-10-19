@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sodiqov Og'abek</h1>
 <h3 align="center">A Java backend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/JWR01H/programmer-workspace-programming-development-person-working-on-computer-JWR01H.jpg">
+<img align="right" alt="Coding" width="400pm" height="400pm"  src="https://c8.alamy.com/comp/JWR01H/programmer-workspace-programming-development-person-working-on-computer-JWR01H.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodiqovogabek&label=Profile%20views&color=0e75b6&style=flat" alt="sodiqovogabek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodiqovogabek" alt="sodiqovogabek" /></a> </p>
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
  
 <h3 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> About me</h3>
